@@ -49,5 +49,5 @@ test-results/
 /var/
 
 # Игнорирование файлов Vagrantfile и других конфигурационных файлов, если они не должны отслеживаться
-Vagrantfile
-*.vagrant-env
+#Vagrantfile
+#*.vagrant-env
